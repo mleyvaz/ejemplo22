@@ -1,4 +1,4 @@
-# ejemplo22
+
 
 # Ejemplo de pagina  WEB Hola mundo
 
@@ -11,4 +11,10 @@ Encabezados
 ### Encabezado 3
 #### Encabezado 4
 ##### Encabezado 5
-###### Encabezado 6
+###### Encabezado 
+
+Tablas 
+| Título  | Título   |
+| ------- | -------- |
+| Texto   | Texto    |
+| Texto   | Texto    |

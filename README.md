@@ -1,6 +1,6 @@
 # Resultados electorales 
 
-## Imagenes de los candidatos
+## Imágenes de los candidatos
 ### Aquiles Alvarez
 ![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
 ### Cinthia Viteri

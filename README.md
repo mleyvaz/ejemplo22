@@ -1,8 +1,8 @@
 # Resultados electorales 
 
 ## Imagenes de los candidatos
-![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
-![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+*![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
+*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
 
 ## Resultados 
 

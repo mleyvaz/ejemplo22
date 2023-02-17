@@ -5,6 +5,8 @@
 ![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
 ### Cinthia Viteri
 *![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+### caicedo cervantes
+*![caicedo cervantes](/ruta/a/la/imagen.jpg)
 
 ## Resultados 
 
